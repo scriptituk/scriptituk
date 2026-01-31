@@ -1,3 +1,3 @@
 ![Metrics](https://metrics.lecoq.io/scriptituk?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FLondon)
 <kbd align='center'>&nbsp;<br>**xfade-easing**<br>&nbsp;<br>[![xfade-easing](https://github.com/scriptituk/xfade-easing/blob/main/assets/xfade-easing.gif)](https://github.com/scriptituk/xfade-easing)</kbd>
-<kbd align='center'>&nbsp;<br>**tv-test-card-maker**<br>&nbsp;<br>[![tv-test-card-maker](https://github.com/scriptituk/tv-test-card-maker/blob/main/assets/video/tcm-thumb.png)](https://github.com/scriptituk/tv-test-card-maker)</kbd>
+<kbd align='center'>&nbsp;<br>**tv-test-card-maker**<br>&nbsp;<br>[![tv-test-card-maker](https://github.com/scriptituk/tv-test-card-maker/blob/main/assets/tv-test-card-maker.png)](https://github.com/scriptituk/tv-test-card-maker)</kbd>
